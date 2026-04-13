@@ -15,7 +15,6 @@ packages/
 
 # Compiled files
 *.exe
-*.dll
 *.pdb
 *.cache
 
